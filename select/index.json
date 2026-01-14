@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "El Amor",
+  "base_artist": "Ricardo Arjona",
+  "createdAt": "2026-01-14T02:15:35.724615Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "El Amor Es Movimiento",
+      "artist": "Memphis La Blusera",
+      "has_synced": true,
+      "path": "select/01_El_Amor_Es_Movimiento_Memphis_La_Blusera.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "El Amor Es Más Fuerte",
+      "artist": "Ulises Butrón",
+      "has_synced": true,
+      "path": "select/02_El_Amor_Es_Más_Fuerte_Ulises_Butrón.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "El Amor Acaba",
+      "artist": "José José",
+      "has_synced": true,
+      "path": "select/03_El_Amor_Acaba_José_José.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Y el Amor (with Luis Eduardo Aute)",
+      "artist": "Joan Manuel Serrat feat. Luis Eduardo Aute",
+      "has_synced": true,
+      "path": "select/04_Y_el_Amor_(with_Luis_Eduardo_Aute)_Joan_Manuel_Serrat_feat._Luis_Eduardo_Aute.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Y El Amor (With Luis Eduardo Aute)",
+      "artist": "Joan Manuel Serrat, Luis Eduardo Aute",
+      "has_synced": true,
+      "path": "select/05_Y_El_Amor_(With_Luis_Eduardo_Aute)_Joan_Manuel_Serrat,_Luis_Eduardo_Aute.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "El Amor de este Pueblo",
+      "artist": "Federico Aubele",
+      "has_synced": false,
+      "path": "select/06_El_Amor_de_este_Pueblo_Federico_Aubele.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Amar Haciendo El Amor",
+      "artist": "Céline Dion",
+      "has_synced": true,
+      "path": "select/07_Amar_Haciendo_El_Amor_Céline_Dion.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Viva El Amor!",
+      "artist": "Paola&Chiara",
+      "has_synced": false,
+      "path": "select/08_Viva_El_Amor!_Paola&Chiara.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Viva el Amor!",
+      "artist": "Paola & Chiara",
+      "has_synced": false,
+      "path": "select/09_Viva_el_Amor!_Paola_&_Chiara.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Viva el amor (Rapino Bros mix)",
+      "artist": "Paola&Chiara",
+      "has_synced": false,
+      "path": "select/10_Viva_el_amor_(Rapino_Bros_mix)_Paola&Chiara.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cuando El Amor Se Escapa",
+      "artist": "Morat",
+      "has_synced": true,
+      "path": "select/11_Cuando_El_Amor_Se_Escapa_Morat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Así Es El Amor",
+      "artist": "Grupo Bryndis",
+      "has_synced": false,
+      "path": "select/12_Así_Es_El_Amor_Grupo_Bryndis.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ay! El Amor",
+      "artist": "Grupo Mojado",
+      "has_synced": true,
+      "path": "select/13_Ay!_El_Amor_Grupo_Mojado.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ay! El Amor (Album Version)",
+      "artist": "Grupo Mojado",
+      "has_synced": true,
+      "path": "select/14_Ay!_El_Amor_(Album_Version)_Grupo_Mojado.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Duele El Amor",
+      "artist": "Joan Sebastian",
+      "has_synced": true,
+      "path": "select/15_Duele_El_Amor_Joan_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "El Amor Más Fiel",
+      "artist": "Grupo Mojado",
+      "has_synced": true,
+      "path": "select/16_El_Amor_Más_Fiel_Grupo_Mojado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "El amor",
+      "artist": "Ricardo Arjona",
+      "has_synced": false,
+      "path": "select/pl_01_El_amor_Ricardo_Arjona.txt"
+    }
+  ]
+}
